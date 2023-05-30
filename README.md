@@ -1,1 +1,0 @@
-# jhummer.github.io
