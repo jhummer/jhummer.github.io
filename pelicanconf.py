@@ -5,6 +5,9 @@ SITENAME = "THE GIST"
 SITEURL = ""
 # INTRO_CONTENT = "This is some intro content"
 
+STATIC_PATHS = ["images", "extra/CNAME"]
+EXTRA_PATH_METADATA = {"extra/CNAME": {"path": "CNAME"}}
+
 PATH = "content"
 
 TIMEZONE = "Europe/Rome"
